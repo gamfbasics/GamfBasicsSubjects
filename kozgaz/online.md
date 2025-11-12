@@ -21,14 +21,10 @@
 
 ## Előnyei a vásárlóknak
 
-- [kgk.uni-obuda.hu](https://kgk.uni-obuda.hu/wp-content/uploads/2025/08/VF_TK_25_2_Online_vasarlasi_szokasok_Magyarorszagon.pdf)
-  - NMHH (2024) kutatása alapján a magyar lakosság 80%-a vásárolt már valamilyen terméket az interneten.
-  - ![alt text](https://www.shoprenter.hu/blog/wp-content/uploads/2024/08/nwf-2024-fizetesi-mod-1.jpg)
 - Kényelmes, bárhonnan elérhető
 - Non-stop elérhetőség (0–24)
 - Könnyű árösszehasonlítás
 - Akciók, kuponok, gyors keresés
-  - ![alt text](https://cdn.discordapp.com/attachments/495252910876131328/1437498840055021730/image.png?ex=6913769e&is=6912251e&hm=410e7145a9852d2fa61358ab29d28411499d237dc0a21f74bc56eeb9cfb50928&)
 - Széles termékkínálat
 
 ## Előnyei az eladóknak
