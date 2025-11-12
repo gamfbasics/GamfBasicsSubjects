@@ -3,36 +3,54 @@
 ## Mi az online piac és webáruház?
 
 - Az online piac az interneten zajló adásvétel helyszíne
+  - Nem kell személyesen boltba menni, mindent online intézünk.
 - termékeket vagy szolgáltatásokat kínálnak, az 5 legnépszerűbb kategória
   1. Játék és ajándék,
   2. Barkács és kert, 
   3. Ruházat, sportruházat
   4. Egészség, wellness
   5. Lakberendezés. 
+  - Nem csak fizikai termékek, szolgáltatásokat is, például szoftver előfizetés, játékok
 - Közvetlen kapcsolat a vásárló és az eladó között
+  - Nincs szükség bolti eladóra, közvetítőre
 - Példa: eMAG, Alza, Media Markt online, Amazon
 
 ## Az online kereskedelem működése
 
-- Termékfeltöltés és kategorizálás
-- Kosárba helyezés → fizetés → kiszállítás
-- Automatizált készletkezelés, fizetési és logisztikai rendszerek
-- Reklámok és keresőoptimalizálás fontos szerepe
+- Autómatizált készletkezelés
+  - Rendelés során teljesen automatikus minden
+  - Előre megírt rendszerek érzékelik amikor beérkezik a rendelés
+- Fizetés és logisztika
+  - A legtöbb webáruház igyekszik átállni az online bankkártyás fizetésre
+  - Utánvétes fizetés (plussz költség)
+- Reklámok
+  - Célzott hírdetések
+- SEO
+  - Jó SEO-val rendelkező oldal több forgalmat kap
 
 ## Előnyei a vásárlóknak
 
-- Kényelmes, bárhonnan elérhető
-- Non-stop elérhetőség (0–24)
+- Bárhonnan elérhető
+  - Internetkapcsolat szükséges
+  - Elérhető otthonról, út közben
+- 0–24 elérhetőség
+  - Bármikor lehet vásárolni, éjszaka, hétvégén, ünnepnapon
 - Könnyű árösszehasonlítás
-- Akciók, kuponok, gyors keresés
-- Széles termékkínálat
+  - [Árúkereső](https://www.arukereso.hu/)
+- Gyors keresés
+- Akciók
+  - Sokszor akciók
+  - Black friday
 
 ## Előnyei az eladóknak
 
-- Alacsonyabb működési költség (nincs fizikai bolt)
+- Alacsonyabb működési költség 
+  - Nincs fizikai bolt, csak egy raktár
+  - Nincsenek dolgozók
 - Automatizált rendszerek (raktár, számlázás, szállítás)
 - Szélesebb vásárlói kör, akár nemzetközi piac
 - Könnyű statisztika és marketing mérés
+  - Látszik hányan kattintottak, honnan jöttek, és hányan vásároltak
 
 ---
 
@@ -54,7 +72,7 @@
   - Nem mindegyik cég engedi a boxba való visszaküldést
   - Van ahol csak postai úton van lehetőség
   - Van amikor rossz box nyílik ki (vagy ki sem nyílik)
-  - Előfordul, hogy Nem veszi be a kódot
+  - Előfordul, hogy nem veszi be a kódot
 
 ## Hátrányai az eladóknak
 
