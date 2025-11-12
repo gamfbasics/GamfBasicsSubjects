@@ -4,7 +4,7 @@
 
 - Az online piac az interneten zajló adásvétel helyszíne
   - Nem kell személyesen boltba menni, mindent online intézünk.
-- termékeket vagy szolgáltatásokat kínálnak, az 5 legnépszerűbb kategória
+- Termékeket vagy szolgáltatásokat kínálnak, az 5 legnépszerűbb kategória
   1. Játék és ajándék,
   2. Barkács és kert, 
   3. Ruházat, sportruházat
@@ -66,7 +66,7 @@
   - Kamu oldalak próbálják imitálni az igazi oldalakat
   - Ellenőrizzuk le a linket
   - Csak ismert és megbízható helyeken keresgéljünk
-  - Személyes adatokat (bankkártya, lakcím) NE adjunk meg, csak akkor adjunk meg ha biztosra mentünk, hogy
+  - Személyes adatokat (bankkártya, lakcím) NE adjunk meg, csak akkor ha biztosra mentünk, hogy biztonságos
 - Visszaküldés bonyolultabb lehet
   - Szabályok szerint 14 napon belül minden további nélkül vissza lehet küldeni terméket
   - Nem mindegyik cég engedi a boxba való visszaküldést
