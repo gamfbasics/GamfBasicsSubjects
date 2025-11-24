@@ -20,7 +20,7 @@
 - Ha az f és a g függvény differenciálható az $$x_0$$ pontban és $$c \in \mathbb{R}$$, akkor az alábbi függvényeknek is létezik az adott pontban a deriváltjuk:
   - $$(cf)'(x_0) = cf'(x_0)$$
   - $$(f \pm g)'(x_0) = f'(x_0) \pm g'(x_0)$$
-  - $$(f * g)'(x_0) = f'(x_0)g'(x_0) + g'(x_0)f'(x_0)$$
+  - $$(f * g)'(x_0) = f'(x_0)g(x_0) + f(x_0)g'(x_0)$$
   - $$\left( \frac{f}{g} \right)'(x_0) = \frac{f'(x_0)g(x_0) - f(x_0)g'(x_0)}{g^2(x_0)}$$
 - Ha a függvény differenciálható az $$x_0$$ pontban és az $$f$$ függvény differenciálható a $$g(x_0)$$ pontban, akkor az $$f \circ g$$ függvény is differenciálható az $$x_0$$ pontban:
   - $$(f(g(x_0)))' = f'(g(x_0))g'(x_0)$$
