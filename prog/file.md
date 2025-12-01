@@ -91,7 +91,7 @@ int main() {
   ifstream myFile("file_helye.txt");
 
   while(!myFile.eof()) {
-    getline(file, sor);
+    getline(myFile, sor);
     cout << sor << endl;
     // VAGY
     // string orszag;
