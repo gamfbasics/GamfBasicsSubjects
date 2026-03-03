@@ -7,8 +7,3 @@
 - $$I = I_0 * 10^{L/10}$$
 > Az L helyettesíthető P-vel, mert ugyan azt jelenti
 - $$I_{össz} = I_1+I_2+I_3\,...\,I_n$$
-
-## Feladat típusok
-
-[További gyakorló feladatok](/fizika/test/szintertek)
-
